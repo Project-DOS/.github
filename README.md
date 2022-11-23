@@ -1,3 +1,3 @@
-# Breadheads
+# DreamOS
 
-## Crypto for the rest of us
+## Web3's Home
